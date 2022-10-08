@@ -1,4 +1,4 @@
-def add(a, b):
+def addint(a, b):
      c = a + b
      return c
 
