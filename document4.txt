@@ -1,4 +1,4 @@
-def add(a, b):
+def addsome(a, b):
      c = a + b
      return c
 
